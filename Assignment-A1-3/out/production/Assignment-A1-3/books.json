@@ -1,0 +1,72 @@
+[
+  {
+    "title": "The Betrothed",
+    "author": "Alessandro Manzoni",
+    "data": {
+      "price": 9.99,
+      "categories": ["historical fiction", "Italian literature"],
+      "isbn": "9780140445564",
+      "pages": 448
+    }
+  },
+  {
+    "title": "The Invention of Morel",
+    "author": "Adolfo Bioy Casares",
+    "data": {
+      "price": 8.49,
+      "categories": ["sci-fi", "fantasy"],
+      "isbn": "9781935554041",
+      "pages": 152
+    }
+  },
+  {
+    "title": "The Time of the Assassins",
+    "author": "Julio Cortázar",
+    "data": {
+      "price": 12.00,
+      "categories": ["surrealism", "literary fiction"],
+      "isbn": "9781931270626",
+      "pages": 224
+    }
+  },
+  {
+    "title": "The Elephant Vanishes",
+    "author": "Haruki Murakami",
+    "data": {
+      "price": 11.50,
+      "categories": ["short stories", "Japanese literature"],
+      "isbn": "9780679775424",
+      "pages": 224
+    }
+  },
+  {
+    "title": "The Woman in the Window",
+    "author": "A.J. Finn",
+    "data": {
+      "price": 10.99,
+      "categories": ["psychological thriller", "mystery"],
+      "isbn": "9780062678423",
+      "pages": 432
+    }
+  },
+  {
+    "title": "The Sorrows of Young Werther",
+    "author": "Johann Wolfgang von Goethe",
+    "data": {
+      "price": 7.99,
+      "categories": ["romanticism", "German literature"],
+      "isbn": "9780142437550",
+      "pages": 256
+    }
+  },
+  {
+    "title": "The Death of Ivan Ilyich",
+    "author": "Leo Tolstoy",
+    "data": {
+      "price": 6.99,
+      "categories": ["Russian literature", "philosophical fiction"],
+      "isbn": "9780140442013",
+      "pages": 144
+    }
+  }
+]
